@@ -1,4 +1,4 @@
-function Bill() {
+function Check() {
     let total = parseFloat(document.getElementById("total").value);
     console.log(typeof total);
     let rate = parseFloat(document.getElementById("rate").value);
